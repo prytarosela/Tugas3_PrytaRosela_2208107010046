@@ -71,8 +71,8 @@ project-root/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/furqanx/Tugas-Pembelajaran-Mesin.git
-cd Tugas-Pembelajaran-Mesin
+git clone https://github.com/prytarosela/Tugas3_PrytaRosela_2208107010046.git
+cd Tugas3_PrytaRosela_2208107010046
 ```
 
 ### 2. Siapkan Environment Python
@@ -121,17 +121,14 @@ Aplikasi akan berjalan di `http://localhost:8501/`.
 ### Tampilan Aplikasi
 ![image](https://github.com/user-attachments/assets/ed2816ac-667b-4770-ae51-84129142ef42)
 
-
 ### Prediksi "Rock"
 ![Hasilmodelbatu](https://github.com/user-attachments/assets/29d55c54-6f2b-4b83-ad1d-fb29e6a17dc4)
 
 ### Prediksi "Paper"
 ![Hasilmodelkertas](https://github.com/user-attachments/assets/4b49c925-698a-4981-b617-7f8d0f058184)
-![image](https://github.com/user-attachments/assets/ecd05ae3-8eac-4d47-9323-184e797c334d)
 
 ### Prediksi "Scissors"
 ![Hasilmodelgunting](https://github.com/user-attachments/assets/c7649e66-d367-4892-a4fc-c5412d46b1bc)
-
 
 ---
 
@@ -165,11 +162,6 @@ Untuk mencegah overfitting, diterapkan teknik Early Stopping yang akan menghenti
 - Memastikan konsistensi preprocessing antara pipeline training dan inferensi.
 - Mengintegrasikan model dengan backend FastAPI dan frontend Streamlit.
 - Menangani kondisi ketika input tidak sesuai dengan kategori yang diharapkan (threshold confidence).
-
----
-
-## 📋 Kontributor
-- [Pryta Rosela] - [https://github.com/prytarosela/Tugas3_PrytaRosela_2208107010046.git]
 
 ---
 
