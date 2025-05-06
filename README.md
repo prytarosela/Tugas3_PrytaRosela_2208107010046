@@ -7,7 +7,6 @@ Model yang dilatih telah berhasil diintegrasikan ke dalam aplikasi backend berba
 
 ![image](https://github.com/user-attachments/assets/eb794960-da96-4e98-b759-66e345cb7194)
 
-
 ---
 
 ## 🛠️ Teknologi yang Digunakan
@@ -128,6 +127,7 @@ Aplikasi akan berjalan di `http://localhost:8501/`.
 
 ### Prediksi "Paper"
 ![Hasilmodelkertas](https://github.com/user-attachments/assets/4b49c925-698a-4981-b617-7f8d0f058184)
+![image](https://github.com/user-attachments/assets/ecd05ae3-8eac-4d47-9323-184e797c334d)
 
 ### Prediksi "Scissors"
 ![Hasilmodelgunting](https://github.com/user-attachments/assets/c7649e66-d367-4892-a4fc-c5412d46b1bc)
@@ -169,7 +169,7 @@ Untuk mencegah overfitting, diterapkan teknik Early Stopping yang akan menghenti
 ---
 
 ## 📋 Kontributor
-- [Nama Anda] - [Link GitHub Anda]
+- [Pryta Rosela] - [https://github.com/prytarosela/Tugas3_PrytaRosela_2208107010046.git]
 
 ---
 
