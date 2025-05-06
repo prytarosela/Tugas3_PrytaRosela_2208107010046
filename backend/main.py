@@ -47,6 +47,15 @@ def preprocess_pipeline(image: Image.Image, IMG_SIZE = (224, 224)) -> np.ndarray
     
     # TODO: Lengkapi proses preprocessing di bawah ini
     
+    # Resize gambar ke ukuran yang diinginkan
+    resized_image = image.resize(IMG_SIZE)
+    
+    # Konversi ke numpy array
+    arr = np.array(resized_image, dtype=np.float32)
+    
+    # Normalisasi nilai pixel dari [0,255] ke [0,1]
+    arr = arr / 255.0
+    
     return arr  # pastikan mengembalikan array hasil preprocessing
 
 # endpoint untuk menerima input dan menghasilkan prediksi

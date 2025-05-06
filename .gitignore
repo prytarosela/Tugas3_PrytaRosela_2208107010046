@@ -1,0 +1,8 @@
+# Abaikan virtual environment
+.venv/
+
+# Abaikan konfigurasi editor
+.vscode/
+
+# Abaikan dataset
+dataset/
