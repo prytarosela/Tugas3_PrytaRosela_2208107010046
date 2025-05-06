@@ -39,7 +39,8 @@ weighted avg     0.9881    0.9881    0.9881       336
 ```
 
 ### Confusion Matrix
-![Confusion Matrix](![image](https://github.com/user-attachments/assets/7043dbec-ec59-414d-9524-d4d680d272e1))
+![image](https://github.com/user-attachments/assets/8f532339-1b98-4a1c-973a-d7b699c81ee7)
+
 Model mencapai akurasi **98.81%** pada dataset test, dengan performa yang sangat baik di ketiga kelas. Dari confusion matrix, dapat dilihat bahwa hanya terdapat beberapa kesalahan prediksi, dimana:
 - 1 gambar paper salah dikenali sebagai scissors
 - 1 gambar rock salah dikenali sebagai paper
@@ -119,16 +120,18 @@ Aplikasi akan berjalan di `http://localhost:8501/`.
 ## 📸 Screenshots
 
 ### Tampilan Aplikasi
-![Application Interface](![Hasilmodelgunting](https://github.com/user-attachments/assets/5b2f277d-54b2-4f92-a302-3aa95c5e5f1b))
+![image](https://github.com/user-attachments/assets/ed2816ac-667b-4770-ae51-84129142ef42)
+
 
 ### Prediksi "Rock"
 ![Hasilmodelbatu](https://github.com/user-attachments/assets/29d55c54-6f2b-4b83-ad1d-fb29e6a17dc4)
 
 ### Prediksi "Paper"
-![Paper Prediction](![Hasilmodelkertas](https://github.com/user-attachments/assets/12adb8df-0e6f-4cd7-a353-cf5daa9ad0de))
+![Hasilmodelkertas](https://github.com/user-attachments/assets/4b49c925-698a-4981-b617-7f8d0f058184)
 
 ### Prediksi "Scissors"
-![Scissors Prediction](![Hasilmodelgunting](https://github.com/user-attachments/assets/f4d84841-a98c-40de-bcf7-b38e9820d406))
+![Hasilmodelgunting](https://github.com/user-attachments/assets/c7649e66-d367-4892-a4fc-c5412d46b1bc)
+
 
 ---
 
