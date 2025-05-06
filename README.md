@@ -122,7 +122,7 @@ Aplikasi akan berjalan di `http://localhost:8501/`.
 ![Application Interface](![Hasilmodelgunting](https://github.com/user-attachments/assets/5b2f277d-54b2-4f92-a302-3aa95c5e5f1b))
 
 ### Prediksi "Rock"
-![Rock Prediction](![Hasilmodelbatu](https://github.com/user-attachments/assets/e156cf6f-08dc-4319-b68c-76079e263c83))
+![Hasilmodelbatu](https://github.com/user-attachments/assets/29d55c54-6f2b-4b83-ad1d-fb29e6a17dc4)
 
 ### Prediksi "Paper"
 ![Paper Prediction](![Hasilmodelkertas](https://github.com/user-attachments/assets/12adb8df-0e6f-4cd7-a353-cf5daa9ad0de))
